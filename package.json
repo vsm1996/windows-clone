@@ -1,0 +1,20 @@
+{
+  "name": "windows-clone",
+  "version": "1.0.0",
+  "description": "Fun project! Whoohoo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsm1996/windows-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsm1996/windows-clone/issues"
+  },
+  "homepage": "https://vsm1996.github.io/windows-clone"
+}
