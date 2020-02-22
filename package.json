@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vsm1996/windows-clone/issues"
   },
-  "homepage": "https://vsm1996.github.io/windows-clone"
+  "homepage": "https://vsm1996.github.io/windows-clone",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
